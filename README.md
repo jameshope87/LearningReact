@@ -1,3 +1,7 @@
+# Learning some React
+
+I am using the react/vite template to learn some react development.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
